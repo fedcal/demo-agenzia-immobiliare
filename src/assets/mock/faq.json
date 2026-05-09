@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Quanto è la provvigione di mediazione?",
+      "risposta": "La provvigione standard di Domus Roma è del 3% + IVA sul prezzo di compravendita per ciascuna parte (acquirente e venditore). Per le locazioni la provvigione equivale tipicamente a un mese di canone per entrambe le parti. Tutti i costi sono discussi e formalizzati prima dell'incarico, senza sorprese."
+    },
+    {
+      "domanda": "La valutazione del mio immobile è davvero gratuita?",
+      "risposta": "Sì, la valutazione è completamente gratuita e senza impegno. Effettuiamo un sopralluogo dell'immobile e consegniamo entro 24 ore un report scritto con l'analisi comparativa di mercato (CMA), basata sulle transazioni reali nella stessa zona negli ultimi 12 mesi. Non è richiesto nessun mandato."
+    },
+    {
+      "domanda": "Domus Roma può aiutarmi a ottenere un mutuo?",
+      "risposta": "Collaboriamo con una rete di mediatori creditizi e broker bancari partner che possono analizzare la vostra situazione finanziaria e proporre le migliori offerte di mutuo disponibili sul mercato. Il servizio di presentazione è gratuito per i clienti Domus Roma. Non siamo una banca e non eroghiamo mutui direttamente."
+    },
+    {
+      "domanda": "Perché affidarsi a un'agenzia invece di vendere da soli?",
+      "risposta": "Oltre al network e alla visibilità multiportale, un'agenzia FIAIP garantisce la corretta gestione di tutti gli aspetti legali e fiscali: conformità catastale e urbanistica, verifica dei vincoli, redazione di compromessi a norma. Gli immobili venduti tramite agenzia professionista ottengono in media un prezzo superiore del 5-8% rispetto al fai-da-te, più che compensando la provvigione."
+    },
+    {
+      "domanda": "Cosa significa che siete iscritti FIAIP?",
+      "risposta": "FIAIP (Federazione Italiana Agenti Immobiliari Professionali) è la principale associazione di categoria italiana. L'iscrizione garantisce che tutti gli agenti di Domus Roma abbiano superato gli esami abilitativi previsti dalla legge 39/1989, siano iscritti alla Camera di Commercio e possiedano una polizza RC professionale. È la garanzia di professionalità e deontologia del settore."
+    },
+    {
+      "domanda": "Come verificate la conformità urbanistica di un immobile?",
+      "risposta": "Prima di ogni compravendita eseguiamo una due diligence urbanistica completa: verifica presso il Comune di Roma della conformità tra stato di fatto e planimetria catastale, controllo delle eventuali pratiche edilizie aperte, verifica agibilità e classe energetica (APE obbligatorio). Collaboriamo con tecnici abilitati (geometri e ingegneri) per la risoluzione di eventuali difformità."
+    },
+    {
+      "domanda": "Quanto tempo ci vuole per vendere un immobile a Roma?",
+      "risposta": "I tempi medi di vendita nel mercato romano variano in base alla zona e al prezzo richiesto. Per immobili in fascia upper-middle nelle zone Prati, Parioli e Centro Storico, la nostra media è di 90-120 giorni dalla messa in vendita al preliminare firmato, con corretta valutazione di partenza. Per affitti i tempi si riducono a 2-4 settimane."
+    },
+    {
+      "domanda": "Gestite anche affitti brevi e Airbnb?",
+      "risposta": "Non gestiamo direttamente affitti brevi turistici, ma possiamo mettere in contatto i proprietari con i migliori gestori di affitti brevi convenzionati con Domus Roma. Per gli investitori valutiamo anche la redditività comparata tra locazione tradizionale e breve termine, aiutando nella scelta più adatta al profilo dell'immobile e alla zona."
+    }
+  ]
+}

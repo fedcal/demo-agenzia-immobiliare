@@ -1,0 +1,39 @@
+{
+  "ragioneSociale": "Domus Roma S.r.l.",
+  "nomeCommerciale": "Domus Roma",
+  "tagline": "Real Estate dal 2002",
+  "indirizzo": {
+    "via": "Via Cola di Rienzo, 88",
+    "citta": "Roma",
+    "provincia": "RM",
+    "cap": "00192",
+    "regione": "Lazio",
+    "paese": "Italia",
+    "lat": 41.9055,
+    "lng": 12.4634
+  },
+  "contatti": {
+    "telefono": "+39 06 3211 4567",
+    "email": "info@domusroma.it",
+    "social": {
+      "instagram": "https://instagram.com/domusroma",
+      "facebook": "https://facebook.com/domusroma"
+    }
+  },
+  "partitaIva": "IT12345678901",
+  "orari": {
+    "lunedi": "9:30 – 19:00",
+    "martedi": "9:30 – 19:00",
+    "mercoledi": "9:30 – 19:00",
+    "giovedi": "9:30 – 19:00",
+    "venerdi": "9:30 – 19:00",
+    "sabato": "10:00 – 13:00",
+    "domenica": "Chiuso"
+  },
+  "membership": "FIAIP — Federazione Italiana Agenti Immobiliari Professionali",
+  "metaSeo": {
+    "title": "Domus Roma — Agenzia Immobiliare Roma Prati dal 2002",
+    "description": "Agenzia immobiliare boutique a Roma, zona Prati. Vendita e affitto residenziale e commerciale upper-middle. FIAIP certificata, 22 anni di esperienza.",
+    "keywords": ["agenzia immobiliare Roma", "case in vendita Prati", "affitto Roma centro", "FIAIP Roma", "Domus Roma"]
+  }
+}

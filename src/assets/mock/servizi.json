@@ -1,0 +1,46 @@
+{
+  "servizi": [
+    {
+      "id": "vendita",
+      "titolo": "Vendita Immobiliare",
+      "icona": "🏠",
+      "descrizione": "Gestiamo l'intero processo di compravendita: valutazione gratuita, marketing multicanale, trattativa e assistenza fino al rogito. Il nostro network FIAIP garantisce massima visibilità al vostro immobile.",
+      "punti": ["Valutazione di mercato gratuita", "Fotografie professionali", "Pubblicazione su tutti i portali", "Trattativa assistita"]
+    },
+    {
+      "id": "affitto",
+      "titolo": "Affitto Residenziale e Commerciale",
+      "icona": "🔑",
+      "descrizione": "Intermediazione locativa per immobili residenziali e commerciali. Selezioniamo accuratamente gli inquilini, redigiamo i contratti e gestiamo le pratiche di registrazione all'Agenzia delle Entrate.",
+      "punti": ["Screening inquilini", "Contratti a norma di legge", "Registrazione all'AdE", "Supporto per canone concordato"]
+    },
+    {
+      "id": "valutazione",
+      "titolo": "Valutazione Gratuita",
+      "icona": "📊",
+      "descrizione": "Offriamo una valutazione professionale e gratuita del vostro immobile entro 24 ore dalla richiesta. Analisi comparativa di mercato basata su transazioni reali nella stessa zona e tipologia.",
+      "punti": ["Sopralluogo gratuito", "Analisi comparativa CMA", "Report scritto dettagliato", "Risposta entro 24 ore"]
+    },
+    {
+      "id": "investimenti",
+      "titolo": "Consulenza Investimenti",
+      "icona": "📈",
+      "descrizione": "Supportiamo investitori privati e istituzionali nella scelta degli immobili con migliore rendimento. Analisi di redditività, due diligence urbanistica e fiscale, strategie di portafoglio immobiliare.",
+      "punti": ["Analisi rendimento atteso", "Due diligence completa", "Strategia di portafoglio", "Consulenza fiscale immobiliare"]
+    },
+    {
+      "id": "gestione-patrimoniale",
+      "titolo": "Gestione Patrimoniale",
+      "icona": "🏢",
+      "descrizione": "Per i proprietari che non vogliono occuparsi della gestione quotidiana. Coordiniamo inquilini, manutenzioni, rapporti condominiali e fornitori, con report mensile sull'andamento del patrimonio.",
+      "punti": ["Gestione inquilini", "Coordinamento manutenzioni", "Reportistica mensile", "Rendiconti condominiali"]
+    },
+    {
+      "id": "notarile",
+      "titolo": "Assistenza Notarile",
+      "icona": "⚖️",
+      "descrizione": "Accompagniamo i nostri clienti in ogni fase delle pratiche notarili. Collaboriamo con notai di fiducia per preliminari, compromessi e rogiti, garantendo piena conformità urbanistica e catastale.",
+      "punti": ["Collaborazione con notai partner", "Verifica conformità catastale", "Assistenza preliminare e rogito", "Controllo ipoteche e vincoli"]
+    }
+  ]
+}

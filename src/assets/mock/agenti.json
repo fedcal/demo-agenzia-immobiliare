@@ -1,0 +1,64 @@
+{
+  "agenti": [
+    {
+      "id": 1,
+      "nome": "Marco Ferretti",
+      "ruolo": "Founder & Amministratore",
+      "specializzazione": "vendita",
+      "bio": "Fondatore di Domus Roma nel 2002, Marco vanta oltre 22 anni nel mercato immobiliare romano. Esperto di trattative complesse su immobili di pregio nel centro storico e nei quartieri residenziali premium. Ha gestito compravendite per oltre €120M di valore cumulato.",
+      "anniEsperienza": 22,
+      "lingue": ["Italiano", "Inglese", "Francese"],
+      "certificazioni": ["FIAIP", "MLS"],
+      "contatto": "marco.ferretti@domusroma.it",
+      "foto": "placeholder"
+    },
+    {
+      "id": 2,
+      "nome": "Alessandra Conti",
+      "ruolo": "Senior Agent — Lusso",
+      "specializzazione": "lusso",
+      "bio": "Alessandra si occupa esclusivamente di immobili di lusso e attico nel segmento upper-premium. Background in architettura d'interni che le permette di valorizzare ogni immobile al massimo potenziale. Fluente in quattro lingue, gestisce clientela internazionale HNWI.",
+      "anniEsperienza": 14,
+      "lingue": ["Italiano", "Inglese", "Tedesco", "Arabo"],
+      "certificazioni": ["FIAIP", "RICS"],
+      "contatto": "alessandra.conti@domusroma.it",
+      "foto": "placeholder"
+    },
+    {
+      "id": 3,
+      "nome": "Lorenzo Bianchi",
+      "ruolo": "Senior Agent — Commerciale",
+      "specializzazione": "commerciale",
+      "bio": "Lorenzo è il referente per gli immobili commerciali e direzionali. Specializzato in contratti di locazione commerciale, due diligence e valutazioni per investitori istituzionali. Ha seguito aperture di catene retail internazionali in Roma.",
+      "anniEsperienza": 11,
+      "lingue": ["Italiano", "Inglese", "Spagnolo"],
+      "certificazioni": ["FIAIP", "MLS"],
+      "contatto": "lorenzo.bianchi@domusroma.it",
+      "foto": "placeholder"
+    },
+    {
+      "id": 4,
+      "nome": "Giulia Marino",
+      "ruolo": "Sales Agent — Affitti",
+      "specializzazione": "affitti",
+      "bio": "Giulia gestisce il portafoglio affitti residenziali di Domus Roma con oltre 200 contratti attivi. Esperta di mercato locativo romano, canone concordato e contratti transitori. Punto di riferimento per expat e professionisti in trasferta a Roma.",
+      "anniEsperienza": 7,
+      "lingue": ["Italiano", "Inglese"],
+      "certificazioni": ["FIAIP"],
+      "contatto": "giulia.marino@domusroma.it",
+      "foto": "placeholder"
+    },
+    {
+      "id": 5,
+      "nome": "Davide Esposito",
+      "ruolo": "Property Manager",
+      "specializzazione": "affitti",
+      "bio": "Davide coordina la gestione patrimoniale degli immobili in portafoglio per conto dei proprietari. Supervisiona manutenzioni, rapporti condominiali, scadenze fiscali e reportistica mensile. Garantisce la massima serenità ai proprietari non residenti.",
+      "anniEsperienza": 9,
+      "lingue": ["Italiano", "Inglese"],
+      "certificazioni": ["FIAIP"],
+      "contatto": "davide.esposito@domusroma.it",
+      "foto": "placeholder"
+    }
+  ]
+}
