@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-agenzia-immobiliare",
+  "name": "demo-agenzia-immobiliare",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Agenzia Immobiliare — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://agenzia-immobiliare.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-agenzia-immobiliare.git"
+    "url": "https://github.com/fedcal/demo-agenzia-immobiliare.git"
   },
   "scripts": {
     "ng": "ng",

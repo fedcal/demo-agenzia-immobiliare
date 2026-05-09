@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Agenzia Immobiliare** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://agenzia-immobiliare.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-agenzia-immobiliare/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-agenzia-immobiliare/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-agenzia-immobiliare.git
-cd federico-demo-agenzia-immobiliare
+git clone https://github.com/fedcal/demo-agenzia-immobiliare.git
+cd demo-agenzia-immobiliare
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:agenzia-immobiliare
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-agenzia-immobiliare/
+→ https://fedcal.github.io/demo-agenzia-immobiliare/
 
 ## Hub demos Federico
 
